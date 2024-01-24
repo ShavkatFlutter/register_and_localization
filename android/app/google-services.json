@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "65916656556",
+    "project_id": "findsport-fc9e0",
+    "storage_bucket": "findsport-fc9e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65916656556:android:97d8b6bf08a732051a3809",
+        "android_client_info": {
+          "package_name": "com.example.localization1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzf3vRRkvrDzPsqeioiNcSs68Kl5rNTGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
